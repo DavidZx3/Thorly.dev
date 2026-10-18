@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="#10b981">
+  <circle cx="25" cy="25" r="20" stroke="#10b981" stroke-width="3" fill="none"/>
+  <circle cx="25" cy="25" r="8" fill="#10b981"/>
+  <circle cx="40" cy="10" r="3" fill="#10b981"/>
+  <line x1="25" y1="25" x2="40" y2="10" stroke="#10b981" stroke-width="2.5"/>
+  <text x="60" y="32" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#10b981">Tavily</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 50" fill="#6366f1">
+  <polyline points="8,35 18,15 28,35" stroke="#6366f1" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="28,35 38,15 48,35" stroke="#6366f1" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="32" font-family="Arial, sans-serif" font-weight="600" font-size="20" fill="#6366f1">LangSearch</text>
+</svg>

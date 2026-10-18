@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 50" fill="#06b6d4">
+  <rect x="5" y="10" width="30" height="30" rx="6" stroke="#06b6d4" stroke-width="2.5" fill="none"/>
+  <polygon points="12,18 20,18 20,25 28,25 28,33 20,33 20,25 12,25" fill="#06b6d4"/>
+  <text x="45" y="32" font-family="Arial, sans-serif" font-weight="700" font-size="22" fill="#06b6d4">You.com</text>
+</svg>
