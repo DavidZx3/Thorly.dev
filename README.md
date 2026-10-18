@@ -18,6 +18,10 @@
 
 **[thorly.dev](https://thorly.dev)** &nbsp;·&nbsp; **[Documentación](https://thorly.dev/docs.html)** &nbsp;·&nbsp; **[Portafolio del creador](https://thorly.dev/portafolio.html)**
 
+<br>
+
+<img src="assets/screens/home.png" alt="Página principal de thorly.dev" width="88%">
+
 </div>
 
 > [!NOTE]
@@ -109,14 +113,31 @@ Un **agente de IA que atiende a tus clientes 24/7** desde el WhatsApp de tu nego
 </tr>
 </table>
 
+### Así se ve cada producto
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="assets/screens/thorly-ia.png" alt="Thorly IA"><br><b>Thorly IA</b> · asistente multimodal en la web</td>
+<td width="50%" align="center"><img src="assets/screens/imathorly.png" alt="ImaThorly"><br><b>ImaThorly</b> · editor de informes + chat clínico</td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="assets/mind/captura-editor.png" alt="Mind by Thorly"><br><b>Mind</b> · espacio de trabajo para Windows</td>
+<td width="50%" align="center"><img src="assets/screens/card-whatsapp.png" alt="Bots de WhatsApp"><br><b>Bots de WhatsApp</b> · atención a clientes 24/7</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="assets/mind/captura-editor.png" alt="Mind by Thorly: editor por bloques, buscador, conversor, tablero de equipo, tienda y bóveda" width="80%">
-<br><sub>Mind by Thorly, el espacio de trabajo para Windows.</sub>
+<img src="assets/screens/mind.png" alt="Página de Mind by Thorly" width="80%">
+<br><sub>Página de Mind by Thorly en thorly.dev/mind.html</sub>
 </div>
 
 ---
 
 ## Ecosistema
+
+<div align="center">
+<img src="assets/screens/home-ecosistema.png" alt="Todo conectado, una sola cuenta" width="100%">
+</div>
 
 | | |
 |---|---|
